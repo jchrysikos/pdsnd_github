@@ -18,3 +18,6 @@ Chicago, New York City, Washington
 
 ### Item to Note
 User statistics not available in Washington
+
+### Viewing 
+Can view 5 lines of data at a time
