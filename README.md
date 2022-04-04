@@ -12,3 +12,6 @@ Used chicago.csv, new_york_city.csv and washington.csv files
 
 ### Credits
 Did not use any blog posts to complete. I used Udacity course training to complete the project.
+
+### Cities Explored
+Chicago, New York City, Washington
