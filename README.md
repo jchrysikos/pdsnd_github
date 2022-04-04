@@ -1,6 +1,6 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created for Bikeshare project
+### Date created for bikeshare project
 March 17, 2022
 
 ### Date created for read me file
@@ -8,6 +8,7 @@ April 4, 2022
 
 ### Project Title
 Bikeshare Project
+
 ### Description
 Use Python to understand U.S. bikeshare data by calculating statistics and building an interactive environment where a user is enabled to choose the data and filter for a dataset to analysze.
 
