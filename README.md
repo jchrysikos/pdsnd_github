@@ -15,3 +15,6 @@ Did not use any blog posts to complete. I used Udacity course training to comple
 
 ### Cities Explored
 Chicago, New York City, Washington
+
+### Item to Note
+User statistics not available in Washington
